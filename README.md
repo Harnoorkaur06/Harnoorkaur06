@@ -99,4 +99,4 @@ AI & Machine Learning Student | Software Developer | AI Agent Builder
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Harnoorkaur06&style=for-the-badge&color=blue)
