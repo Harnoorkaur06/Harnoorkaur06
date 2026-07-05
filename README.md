@@ -78,43 +78,18 @@ AI & Machine Learning Student | Software Developer | AI Agent Builder
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=10)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/harnoor-kaur">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kharnoor126@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
 
 ---
 
